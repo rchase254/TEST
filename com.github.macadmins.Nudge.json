@@ -57,7 +57,7 @@
     "forceScreenShotIcon": false,
     "showDeferralCount": true,
     "simpleMode": false,
-    "singleQuitButton": false,
+    "singleQuitButton": true,
     "updateElements": [
       {
         "_language": "en",
