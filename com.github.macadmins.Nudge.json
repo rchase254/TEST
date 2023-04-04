@@ -58,6 +58,7 @@
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": true,
+    "iconDarkPath": "/Library/Application\ Support/ACUIT/JamfConnect/logo.png",
     "updateElements": [
       {
         "_language": "en",
