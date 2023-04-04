@@ -16,19 +16,19 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.acu.edu/TDClient/1963/Portal/Home/",
-      "requiredInstallationDate": "2023-04-04T00:00:00Z",
+      "requiredInstallationDate": "2023-04-15T00:00:00Z",
       "requiredMinimumOSVersion": "12.6.4",
       "targetedOSVersionsRule": "12"
     },
     {
       "aboutUpdateURL": "https://support.acu.edu/TDClient/1963/Portal/Home/",
-      "requiredInstallationDate": "2023-04-05T00:00:00Z",
+      "requiredInstallationDate": "2023-04-15T00:00:00Z",
       "requiredMinimumOSVersion": "13.3",
       "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURL": "https://support.acu.edu/TDClient/1963/Portal/Home/",
-      "requiredInstallationDate": "2023-04-05T00:00:00Z",
+      "requiredInstallationDate": "2023-04-15T00:00:00Z",
       "requiredMinimumOSVersion": "11.7.4",
       "targetedOSVersionsRule": "11"
     }
@@ -58,7 +58,8 @@
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": true,
-    "iconDarkPath": "/Library/Application Support/ACUIT/JamfConnect/logo.png",
+    "iconDarkPath": "/Library/Application Support/ACUIT/JamfConnect/nudgeDarkLogo.png",
+    "iconLightPath": "/Library/Application Support/ACUIT/Nudge/nudgeAssets/nudgeLightLogo.png",
     "updateElements": [
       {
         "_language": "en",
