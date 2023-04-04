@@ -64,7 +64,7 @@
         "actionButtonText": "Update Device",
         "customDeferralButtonText": "Custom",
         "customDeferralDropdownText": "Defer",
-        "informationButtonText": "More Info",
+        "informationButtonText": "Support Center",
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30 minutes to complete",
