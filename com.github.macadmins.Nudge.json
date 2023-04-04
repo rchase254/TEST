@@ -1,6 +1,6 @@
 {
   "optionalFeatures": {
-    "acceptableApplicationBundleIDs": [],
+    "acceptableApplicationBundleIDs": ["us.zoom.xos"],
     "acceptableAssertionUsage": false,
     "acceptableCameraUsage": true,
     "acceptableScreenSharingUsage": true,
