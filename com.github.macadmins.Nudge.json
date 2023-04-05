@@ -49,7 +49,8 @@
     "imminentWindowTime": 24,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
-    "randomDelay": false
+    "randomDelay": false,
+    "maxRandomDelayInSeconds": 60
   },
   "userInterface": {
     "fallbackLanguage": "en",
