@@ -16,7 +16,7 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.acu.edu/TDClient/1963/Portal/KB/ArticleDet?ID=150870",
-      "requiredInstallationDate": "2023-04-15T00:00:00Z",
+      "requiredInstallationDate": "2023-04-20T00:00:00Z",
       "requiredMinimumOSVersion": "12.6.5",
       "targetedOSVersionsRule": "12"
     },
